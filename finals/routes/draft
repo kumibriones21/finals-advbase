@@ -1,0 +1,12 @@
+    "dpt_id": 1,
+    "name": "Alyanna Cyrelle Kumi Briones",
+    "courses": ["Web Development", "Computer Science", "Net administrator", "Cyber Security", "Entertainment and Multimedia Computing"],
+    "description":"Lorem lorem"
+
+    "std_id": 1,
+    "first_name": "Kumi",
+    "last_name": "Briones",
+    "middle_name": "Domingo",
+    "department": "SOC",
+    "course": "IT Web Development",
+    "year_level": "3rd Year"
